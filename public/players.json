@@ -1,0 +1,136 @@
+{
+  "players": [
+    {
+      "playerId": 1,
+      "name": "Virat Kohli",
+      "country": "India",
+      "image": "https://staticg.sportskeeda.com/editor/2024/05/d973a-17150616187538-1920.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm medium",
+      "biddingPrice": "2500",
+      "rating": 5
+    },
+    {
+      "playerId": 2,
+      "name": "Joe Root",
+      "country": "England",
+      "image": "https://i.guim.co.uk/img/media/2cbdcf60c98ec990ac549b413c91870bbf0f22a1/130_510_5336_3202/master/5336.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=9d0f595e6e3e098025d6a0c4e50ac396",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": "1800",
+      "rating": 4.5
+    },
+    {
+      "playerId": 3,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "image": "https://images.prothomalo.com/prothomalo-english%2F2022-11%2F02307e4b-0f60-4845-9750-9d031c18cfd0%2F507386_01_02.jpg?rect=0%2C0%2C5000%2C3333&auto=format%2Ccompress&fmt=webp&dpr=1.0&format=webp&w=480",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": "2200",
+      "rating": 4.7
+    },
+    {
+      "playerId": 4,
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "image": "https://c.cricketpakistan.com.pk/images/posts/cover_1723445307FotoJet---2024-08-12T114119.517.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": "1500",
+      "rating": 4.8
+    },
+    {
+      "playerId": 5,
+      "name": "Pat Cummins",
+      "country": "Australia",
+      "image": "https://images.firstpost.com/uploads/2023/08/Pat-Cummins-640_AP.jpg?im=FitAndFill=(1200,675)",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": "3000",
+      "rating": 4.9
+    },
+    {
+      "playerId": 6,
+      "name": "Ben Stokes",
+      "country": "England",
+      "image": "https://cdn.prod.website-files.com/5ece79331c66c8b9bc6bff1e/60783660873ea9455711a937_Th%20Ben%20Stokes%20Celebrates.jpg",
+      "role": "All-rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm fast-medium",
+      "biddingPrice": "2700",
+      "rating": 4.6
+    },
+    {
+      "playerId": 7,
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "image": "https://d2u0ktu8omkpf6.cloudfront.net/1ad878185a5c1be830e36ebbd0985af424054ddb33306f3d.jpg",
+      "role": "All-rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Left-arm orthodox spin",
+      "biddingPrice": "300",
+      "rating": 4.3
+    },
+    {
+      "playerId": 8,
+      "name": "AB de Villiers",
+      "country": "South Africa",
+      "image": "https://images.mykhel.com/img/2019/05/de-villiers-1558505734.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm medium",
+      "biddingPrice": "2800",
+      "rating": 4.9
+    },
+    {
+      "playerId": 9,
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "image": "https://i.tribune.com.pk/media/images/Babar-Azam1721817033-0/Babar-Azam1721817033-0.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": "2400",
+      "rating": 4.8
+    },
+    {
+      "playerId": 10,
+      "name": "Rashid Khan",
+      "country": "Afghanistan",
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_960,q_50/lsci/db/PICTURES/CMS/383700/383731.6.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm legbreak",
+      "biddingPrice": "1900",
+      "rating": 4.7
+    },
+    {
+      "playerId": 11,
+      "name": "David Warner",
+      "country": "Australia",
+      "image": "https://resources.cricket-australia.pulselive.com/photo-resources/2024/10/24/c22b19e4-4e5c-47dd-b367-6921763b31e1/David-Warner.jpg?width=950&height=535",
+      "role": "Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm legbreak",
+      "biddingPrice": "2300",
+      "rating": 4.4
+    },
+    {
+      "playerId": 12,
+      "name": "Trent Boult",
+      "country": "New Zealand",
+      "image": "https://cricinformer.com/wp-content/uploads/2022/11/trent-boalt.png",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Left-arm fast-medium",
+      "biddingPrice": "2100",
+      "rating": 4.5
+    }
+  ]
+}
